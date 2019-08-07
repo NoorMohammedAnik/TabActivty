@@ -11,5 +11,11 @@ public class test {
 
     String name;
     int value;
+
+    String name2;
+    int value3;
+
+
+
 }
 
