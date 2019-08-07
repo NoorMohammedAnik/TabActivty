@@ -16,6 +16,10 @@ public class test {
     int value3;
 
 
+    String name4;
+    int value5;
+
+
 
 }
 
