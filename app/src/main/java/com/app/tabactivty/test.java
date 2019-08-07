@@ -7,4 +7,8 @@ Created by Noor Mohammed Anik.
 */
 
 public class test {
+
+
+    String name;
 }
+
